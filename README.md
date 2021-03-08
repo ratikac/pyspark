@@ -4,7 +4,7 @@ This repository is dedicated to code snippets for pyspark. The code has been tes
 NOTE: In order to connect to Mongodb via pyspark, you need additional jar files which depend on the spark version you are using.
 
 USEFUl LINKS:
-<li> [https://dev.to/awwsmm/installing-and-running-hadoop-and-spark-on-ubuntu-18-393h#articles-list]
- <li> [https://stackoverflow.com/questions/50963444/failed-to-find-data-source-com-mongodb-spark-sql-defaultsource?rq=1]
-   <li>[https://sparkbyexamples.com/spark/spark-read-write-dataframe-parquet-example/]
-<li> [https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c]
+<li><a href="https://dev.to/awwsmm/installing-and-running-hadoop-and-spark-on-ubuntu-18-393h#articles-list" target="_blank">Install and Run hadoop and Spark</a>
+ <li><a href="https://stackoverflow.com/questions/50963444/failed-to-find-data-source-com-mongodb-spark-sql-defaultsource?rq=1" target="_blank">StackOverflow: failed-to-find-data-source-com-mongodb-spark-sql-defaultsource</a>
+   <li><a href="https://sparkbyexamples.com/spark/spark-read-write-dataframe-parquet-example/" target="_blank">Read Write Parquet dataframe</a>
+     <li><a href="https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c" target="_blank">Joining in Spark</a>
